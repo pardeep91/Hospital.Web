@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Services", "Hospit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.DTO", "Hospital.DTO\Hospital.DTO.csproj", "{B946C9BF-E239-4902-AF4D-CDEBD0A2A146}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF1DD4F6-7240-4373-AD48-63AF7EE8D1C0}"
+	ProjectSection(SolutionItems) = preProject
+		Pardeep.txt = Pardeep.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
